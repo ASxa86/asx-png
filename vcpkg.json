@@ -1,0 +1,10 @@
+{
+  "name": "asx-png",
+  "version-string": "2022.7.19",
+  "port-version": 1,
+  "description": "Modern C++ PNG",
+  "homepage": "https://github.com/asxa86/asx-png/",
+  "dependencies": [
+    "gtest"
+  ]
+}
